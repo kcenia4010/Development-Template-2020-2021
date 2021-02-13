@@ -12,7 +12,7 @@ Template for developing and testing C++ programs
 ```
 ## Update working branch
 ```
- git checkout <your branch>
+ git checkout -b <your branch>
  git rebase master
 ```
 ## Build project with cmake
